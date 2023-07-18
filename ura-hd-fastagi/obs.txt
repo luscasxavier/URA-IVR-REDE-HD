@@ -1,0 +1,36 @@
+// obs marco 1: nao tem o audio de 0 colocar -- vao providenciar
+// obs marco 2: e pra fazer oq mandar pro kontac ou weon -- vai passar para o time responsavel
+// obs marco 3: e pra fazer oq se ele n digitar nada ou digitar opção errada? -- retentar com opcao 4.
+// obs marco 4: O correto e rodar o audio mais acredito q o audio esteja errado -- n encontrei o audio vai procurar.
+// obs marco 5: requisicao prospect de exemplo errado n posso avaliar se esta certo -- era a flag corrigo OK.
+// obs marco 6: audio errado n faz mt sentido - vou providenciar o corte.
+// obs marco 7: e pra fazer oq se ele digitar outro nuero? - retentar com opcao 4.
+// obs marco 8: requisicao de exemplo errado n posso avaliar se esta certo --  era a flag corrigo OK.
+// obs marco 9: no audio fala pra anotar o protocolo porem no fluxo bizagi não tem pra falar o protrocolo então n falei e pra falar ou n? -- ok manter
+// obs marco 10: preciso da funcao de falar valor q fizemos lucas - vai avaliar
+// obs marco 11: preciso da funcao de falar valor q fizemos lucas - vai avaliar
+// obs marco 12: parte final do audio apos o valor liquido colocar esse nome nela -- audio 15 no fluxo na verdade e audio 13
+// obs marco 13: acho q o audio ta bem errado aqui em quantoa audio 15 porem achei o.
+// obs marco 14: sugiro ter um audio falando 'repetindo' para repetir os valores acima colocquei ja comentado caso tenha. - vai providenciar o audio.
+// obs marco 15: não fez muito sentido pois esta gerando um loop aqui ele volta pra dps do cara ja ter digitado -- vai corrigir
+// obs marco 16: precisamos ver como voltaremos ao menu principal lucas
+// obs marco 17: essa parte nao faz o menor sentido então so desliguei a ligação, e os audios 16 e 17 se forem rodar valores precisam estar divididos -- vai avaliar felipe
+// obs marco 20: vai pra onde essa chamada exatamente?-- vai verificar quatno aos audios
+// obs marco 19: em todos locais q tem protocolo audio ta junto preciso deles separados principalmente esse aqui.
+// obs marco 21: deduzi que a senha tem 6 digitos e q sao numericos preciso q confirmen - sao sempre 5 digitos
+// obs marco 22: nao encontrei nenhum audio falando que as senhas nao sao iguais o audio daqui esta bem estranho pq o cara n vai saber o pq ta errado.
+// obs marco 23: nao encontrei nada de documentacao que fale oq acontece se falhar a alteracao de senha nem no fluxo verificar pois
+// obs marco 24: o audio fala que vai falar o protoco porem no fluxo n ta falando coloquei pq acho q esta errado o fluxo corrigir por favor
+// obs marco 25: preciso do fragmetado para isso aqui fazer sentido.--- audio bem colado
+// obs marco 26: aqui tem o mesmo audio do 18 n entendi pq tem 2 audios iguais. -- audio igual mais mantem
+// obs marco 27: precisamos ver como voltaremos ao menu principal lucas.
+// obs marco 28: acho q tem algo errado no fluxo aqui pois ta pedindo pra gerar protocolo porem ja foi gerado la atras iae oq deve ser feito? -- nao precisa gerar protocolo
+// obs marco 29: esse if todo fiz na base do chute ja que no fluxo nao fala qual api vem aqui e n achei em lugar nenhum.
+// obs marco 30: n sei bem como vai ser essa parte porem o audio ta todo junto preciso dele dividido.
+// obs marco 31: se eu ja tenho o cnpj que ele digitou la no inicio pq preciso que ele digite novamente o cnpj?
+// obs marco 32: quantos digitos desse codigo de estabelecimento ta correto o 10?
+// obs marco 33: essa api q ta pedindo no fluxo recebe um cnpj n um codigo de estabelecimetno oq pretendem fazer?
+//Precisa fazer integração para validar o codigo do estabelecimento < obs marco 34:n entendi lucas.
+
+
+
