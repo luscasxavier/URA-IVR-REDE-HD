@@ -1,12 +1,12 @@
 <?php
 
 return array(
-    //'user_login' => 'ura.telek',
-    'user_login' => 'blip.valecard@multicanais',
-    //'pass_login' => '22222',
-    'pass_login' => '59602',
-    //'server_api' => 'http://10.1.0.43:8080/',
-    'server_api' => 'http://10.20.3.158:8080/',
+    //'user_login' => $login,
+    'user_login' => $login,
+    //'pass_login' => $password,
+    'pass_login' => $password,
+    //'server_api' => $server,
+    'server_api' => $server,
     'url_login' => 'ura-vale-api/auth/login',
     'siglaUra' => 'HD',
     'copiar_audios_para_teste' => 'true',
